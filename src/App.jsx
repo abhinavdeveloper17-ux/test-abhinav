@@ -1,7 +1,7 @@
 import React, { useRef, useState } from 'react'
 
 export default function App() {
-  const [Input, setInput] = useState("")
+ 
   const nameref=useRef()
   const passref=useRef()
 
